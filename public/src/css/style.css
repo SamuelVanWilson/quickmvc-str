@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.example {
+    margin: 20px auto;
+    padding: 10px;
+    width: 60%; 
+    text-align: center;
+}
+
+.home {
+    border: 1px solid rgb(97, 146, 252);
+    background-color: rgba(97, 146, 252, 0.267);
+}
+
+.setting {
+    border: 1px solid rgb(252, 97, 97);
+    background-color: rgba(252, 97, 97, 0.267);
+}
